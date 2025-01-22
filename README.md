@@ -193,4 +193,4 @@ if {"write" ni [split $permissions " "]} {
 
 ## License
 
-This package is provided under the same license as the TCL HTTP/2 server project.
+This package is provided under "The Unlicense" license.
